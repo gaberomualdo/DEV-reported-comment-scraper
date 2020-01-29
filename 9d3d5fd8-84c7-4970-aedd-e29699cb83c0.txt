@@ -1,0 +1,1 @@
+BAD COMMENT: https://dev.to/valentinogagliardi/cypress-tutorial-for-beginners-getting-started-with-end-to-end-testing-5e0
