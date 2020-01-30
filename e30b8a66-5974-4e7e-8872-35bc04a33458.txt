@@ -1,0 +1,1 @@
+BAD COMMENT: https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob

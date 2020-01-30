@@ -1,0 +1,1 @@
+BAD COMMENT: https://dev.to/scottshipp/avoid-getters-and-setters-whenever-possible-c8m

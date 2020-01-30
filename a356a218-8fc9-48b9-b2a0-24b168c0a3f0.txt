@@ -1,0 +1,1 @@
+BAD COMMENT: https://dev.to/tomazlemos/keeping-your-code-clean-by-sweeping-out-if-statements-4in8

@@ -1,0 +1,1 @@
+BAD COMMENT: https://dev.to/josephharveyangeles/creating-a-simple-blog-using-vue-with-markdown-2omd

@@ -1,0 +1,1 @@
+BAD COMMENT: https://dev.to/lampewebdev/it-is-time-to-ditch-reactjs-or-angular-and-use-better-web-standards-like-web-components-part-1-3mba

@@ -1,0 +1,1 @@
+BAD COMMENT: https://dev.to/nikpoltoratsky/debugging-you-re-doing-it-wrong-10-techniques-to-find-a-bug-in-your-code-4f41

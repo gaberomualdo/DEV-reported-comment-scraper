@@ -1,0 +1,1 @@
+BAD COMMENT: https://dev.to/newtonmunene_yg/creating-a-whatsapp-chatbot-using-node-js-dialogflow-and-twilio-31km

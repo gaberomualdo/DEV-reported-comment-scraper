@@ -1,0 +1,1 @@
+BAD COMMENT: https://dev.to/zilurrane/generate-release-mode-apk-for-react-native-project-to-publish-on-playstore-5f78
